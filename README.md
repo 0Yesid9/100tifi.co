@@ -1,0 +1,2 @@
+# 100tifi.co
+SPA JS VANILLA
